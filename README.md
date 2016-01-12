@@ -1,2 +1,2 @@
 # Coursera
-Repository for Coursera Course Matherial
+Repository for Coursera Course Material
